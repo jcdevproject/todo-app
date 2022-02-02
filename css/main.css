@@ -1,0 +1,75 @@
+html{
+    background-color: #99EBFF;
+    font-family: Arial,Helvetica, sans-serif, Times, serif;
+}
+
+
+h1{
+    
+ text-align: center;
+ background-color: white;
+ border: 5px solid #3B8294;
+
+ max-width: 600px;
+ margin: 0 auto;
+}
+
+
+li{
+    margin: 20px auto;
+}
+
+#taskInputContainer
+{
+    text-align: center;
+    margin: 30px auto;
+    max-width: 600px;
+    width: 100%;
+}
+
+#newTask
+{
+    text-align: left;
+    max-width: 400px;
+    width: 100%;
+    border: 2px solid #3B8294;
+    height: 16px;
+    font-size: 16px;
+}
+
+
+
+#listContainer{
+
+ 
+ 
+  max-width: 600px;
+
+  margin: 0 auto;
+ 
+}
+
+#toDolist{
+    
+  
+    max-width: 500px;
+    margin: auto;
+    list-style-type: none;
+    background-color: white;
+    border: 5px solid #3B8294;
+    
+}
+
+.doneButton{
+float: right;
+margin-right: 10px
+
+}
+
+.delButton{
+ float: right;
+ margin-right: 10px
+}
+
+
+
